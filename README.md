@@ -6,4 +6,7 @@
 
 - Trabalha em tempo de build.
 - As páginas já estão prontas de forma static (Trabalhando com servidor CDN).
-- As páginas são criadas no momento de build da aplicação (Páginas staticas). 
+- As páginas são criadas no momento de build da aplicação (Páginas staticas).
+- Rota dinâmica [id].tsx
+- Necessita do getStaticPaths
+ 
